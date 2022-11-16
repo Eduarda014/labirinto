@@ -1,0 +1,25 @@
+{
+  "name": "eduardasanthos7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/Eduarda014/labirinto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduarda014/labirinto.git"
+  },
+  "author": "Eduarda014",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduarda014/labirinto/issues"
+  },
+  "homepage": "https://github.com/Eduarda014/labirinto#readme",
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "chalk": "^5.1.2",
+    "cli-color": "^2.0.3",
+    "node-fetch": "^3.3.0"
+  }
+}
